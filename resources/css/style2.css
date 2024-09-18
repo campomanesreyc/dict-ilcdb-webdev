@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&family=Montserrat&family=Prompt&display=swap');
+
+/*
+font-family: 'Montserrat', sans-serif; -HEADER
+font-family: 'Hind Siliguri', sans-serif; -SUBHEADER
+font-family: 'Prompt', sans-serif; -CONTENT
+*/
+
+body {
+  font-family: 'Prompt', sans-serif;
+  background-color: #3D5A80;
+}
+
+.bg_custom {
+  background-color: #d4d6d9;
+}
+
+.div_1 {
+  background-color: #293241;
+}
+
+.header {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.btn,
+.btn:hover:active {
+  background-color: #293241 !important;
+  color: white !important;
+}
+
+.navbar {
+  background-color: #293241 !important;
+}
+
+#btn_update, #btn_save {
+  background-color: #058ED9 !important;
+}
+
+#btn_delete, #btn_cancel {
+  background-color: #A31621 !important;
+}
+
+input, select {
+  border-color: #293241 !important;
+  box-shadow: none !important;
+}
+
+.form-label{
+  font-weight: bold !important;
+}

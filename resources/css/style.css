@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&family=Montserrat&family=Prompt&display=swap');
+
+/*
+font-family: 'Montserrat', sans-serif; -HEADER
+font-family: 'Hind Siliguri', sans-serif; -SUBHEADER
+font-family: 'Prompt', sans-serif; -CONTENT
+*/
+
+body {
+  background-color: #F5F5F7;
+  font-family: 'Prompt', sans-serif;
+}
+
+.header {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.navbar {
+  background-color: #133C55;
+}
+
+.active {
+  font-weight: bolder;
+  border-bottom: #F5F5F7 2px solid;
+  font-size: 1.1rem;
+}
+
+.progress-bar {
+  background-color: #133C55;
+}
+
+#btn_add_new{
+  background-color: #133C55;
+}
